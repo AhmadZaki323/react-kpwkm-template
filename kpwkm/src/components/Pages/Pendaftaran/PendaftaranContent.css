@@ -1,0 +1,7 @@
+.card-pendaftaran {
+  margin: 10px;
+  /* border: 1px solid black; */
+  box-shadow: 0 0 8px 0 gray;
+  width: 50%;
+  height: 30%;
+}
